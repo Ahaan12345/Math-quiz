@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+#player1login,#player2login{
+    width:60%;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
